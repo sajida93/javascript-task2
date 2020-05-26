@@ -1,2 +1,3 @@
 # javascript-task2
-this just for traning
+this just for tranining
+##Project Notes
